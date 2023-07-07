@@ -1,2 +1,2 @@
 # BMI-Calculator
-BMI-Calculator Website
+BMI-Calculator Basic Website
